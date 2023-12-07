@@ -150,7 +150,7 @@ body
 .rodape{
 
     text-align: center;
-    margin: 0 20em;
+    margin: 0 10em;
     
 }
 
@@ -162,7 +162,7 @@ body
 .rodape__lista{
 
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-around;
     list-style-type: none;
     margin: 1em 0 5em 0;
     
@@ -180,8 +180,9 @@ body
 
     text-decoration: none;
     color: var(--cor-texto1);
-    font-size: 18px;
-    margin-left: 2em;
+    
+   
+    
 }
 
 
